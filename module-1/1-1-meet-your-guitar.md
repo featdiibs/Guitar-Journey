@@ -10,7 +10,7 @@ Welcome to your first lesson. Before we play, we need to know what we're working
 
 Your guitar is made of several parts, each with a job. Here are the most important ones to know:
 
-*(Pro-tip: Find a diagram of an acoustic guitar on Google Images, save it to this folder, and link it here!)*
+
 
 * **Headstock:** At the top; holds the tuning pegs.
 * **Tuning Pegs (or Machine Heads):** You turn these to change the pitch (tune) the strings.
