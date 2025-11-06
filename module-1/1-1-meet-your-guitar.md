@@ -43,3 +43,14 @@ Here's the most common mnemonic (memory trick), starting from the thickest strin
 > **E**ddie **A**te **D**ynamite, **G**ood **B**ye **E**ddie
 
 Here is a diagram representing the strings as you look down at your guitar in your lap:
+
+(Thickest) 6 |--- E 5 |--- A 4 |--- D 3 |--- G 2 |--- B (Thinnest) 1 |--- E
+
+## 📝 Practice Assignment
+
+1.  Point to five different parts of your guitar (e.g., bridge, nut, headstock) and say their names out loud.
+2.  Using your tuner, pluck each string one by one. As you do, say its name: "E, A, D, G, B, E."
+3.  Do this until you can say the string names from memory.
+
+---
+[Go Back to Homepage](../index.md)
